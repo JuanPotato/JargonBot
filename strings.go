@@ -67,7 +67,7 @@ var AudioWordPool = [][]string{
 		"quantizing", "shelving", "sweeping", "cross-fading", "dialing in"}}
 var AudioConstructs = []string{
 	"That {2} is just a poor man's {0} {2}. To really understand {4}, you need to {3} with only {1} {2}s to work with.",
-	"You can get a way with {4} the {1} {2}, but then you run the risk of the {2} getting into your {0} {2}.",
+	"You can get away with {4} the {1} {2}, but then you run the risk of the {2} getting into your {0} {2}.",
 	"See, the {2} is causing {1} {2} in the {0} {2}. That's why it's best to {3} using a {0} {2}.",
 	"The problem is this {2} has its own {1} {0} {2}. If you had just gone with the {1} {2}, it would have been easier to {3}.",
 	"This {2} has its own {1} {0} {2}, the {1} {2} sounds amazing.",
